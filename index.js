@@ -1,6 +1,6 @@
 // javascript 
 
-
+ 
 // stringa
 "ciao"
 
@@ -9,7 +9,7 @@
 
 // stringa
 `ciao`
-
+  
 // oggetto
 var myObject = {
     name: "Luigi",
